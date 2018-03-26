@@ -1,0 +1,5 @@
+main: plugin.kingcloudninja.tabprefix.Main
+name: TabPrefix
+version: 1.0
+author: KingCloudNinja
+description: TabPrefix
